@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WevertonRodriguess
-- 👀 I’m interested in FRONTEND AND BACKEND
-- 🌱 I’m currently learning Frontend (CSS, HTML, JAVASCRIPT) and Backend
+- 👀 I’m interested in FRONTEND (CSS, HTML, JAVASCRIPT) AND BACKEND (php, python)
+- 🌱 I’m currently learning Frontend (CSS, HTML, JAVASCRIPT) and Backend (php, python)
 - 💞️ I’m looking to collaborate on Frontend (CSS, HTML, JAVASCRIPT) and Backend (php, python)
 - 📫 How to reach me through my email: weverton.fernandest2d18@gmail.com
 
